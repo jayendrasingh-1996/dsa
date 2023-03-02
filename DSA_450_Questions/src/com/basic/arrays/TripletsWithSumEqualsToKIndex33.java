@@ -3,7 +3,7 @@ package com.basic.arrays;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class TripletsWithSumEqualsToK {
+public class TripletsWithSumEqualsToKIndex33 {
 
 	public static void main(String[] args) {
 
